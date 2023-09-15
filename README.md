@@ -20,11 +20,11 @@ The Food Ordering Application is a web-based system designed and follows the Spr
 This project is open to contributions. If you have any ideas for improvements or new features, please feel free to create a pull request.
 
 # Snapshots:
-- **App UI (Front End)**:
+- **App UI (Front Page**:
 ![App UI](https://github.com/gaurav20161/foodcart/blob/master/1.PNG?raw=true)
 
-- **Data Submitted Successfully (Front End)**:
+- **Data Fetched Successfully from Database**:
 ![App UI1](https://github.com/gaurav20161/foodcart/blob/master/2.PNG?raw=true)
 
-- **Data Submitted to MySQL database (Back End)**:
+- **Data in MySQL database (Back End)**:
 ![App UI2](https://github.com/gaurav20161/foodcart/blob/master/3.PNG?raw=true)
