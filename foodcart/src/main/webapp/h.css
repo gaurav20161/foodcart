@@ -1,0 +1,8 @@
+@charset "UTF-8";
+.center {
+    text-align: center; /* Center-align the text within the div */
+}
+
+.center h1 {
+    margin: 0; /* Remove any default margins for h1 elements */
+}
