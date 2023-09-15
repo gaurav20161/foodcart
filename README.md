@@ -21,10 +21,10 @@ This project is open to contributions. If you have any ideas for improvements or
 
 # Snapshots:
 - **App UI (Front End)**:
-![App UI]([https://github.com/gaurav20161/Register/blob/master/3.PNG?raw=true](https://github.com/gaurav20161/foodcart/blob/e67806a4054b27ffb029b503ffd35787bfd51cf0/1.PNG))
+![App UI](https://github.com/gaurav20161/foodcart/blob/master/1.PNG?raw=true)
 
 - **Data Submitted Successfully (Front End)**:
-![App UI1](https://github.com/gaurav20161/Register/blob/master/1.PNG?raw=true)
+![App UI1](https://github.com/gaurav20161/foodcart/blob/master/2.PNG?raw=true)
 
 - **Data Submitted to MySQL database (Back End)**:
-![App UI2](https://github.com/gaurav20161/Register/blob/master/2.PNG?raw=true)
+![App UI2](https://github.com/gaurav20161/foodcart/blob/master/3.PNG?raw=true)
